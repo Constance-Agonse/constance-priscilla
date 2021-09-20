@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#constance {
+  margin-right: 20px;  
+ 
+}
+
+a {
+    text-decoration: none;
+}
+
+#list-ontheside{
+    text-align: left;
+}
